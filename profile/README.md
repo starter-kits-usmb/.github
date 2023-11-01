@@ -11,7 +11,7 @@ This organization is a collection of starter kits made by USMB students.
 
 ## 🤝 Contributing
 
-If you want to contribute to this organization, you can ask to a new starter kit by creating an issue with the `starter-kit` label [here](https://github.com/starter-kits-usmb/.github/labels).
+If you want to contribute to this organization, you can ask to a new starter kit by creating an issue with the `starter-kit` label [here](https://github.com/starter-kits-usmb/.github/issues).
 
 You can also contribute to an existing starter kit by creating a pull request on the starter kit repository.
 
@@ -23,7 +23,7 @@ You can also contribute to an existing starter kit by creating a pull request on
 - [ ] Scalable folder structure
 - [ ] Linter and prettier
 - [ ] Routing and lazy loading
-- [ ] Authentication service, compatible with LINK
+- [ ] Authentification service, compatible with LINK
 - [ ] Light design system and layout utilities see [files](https://github.com/starter-kits-usmb/.github/tree/main/minimal-design-system)
 - [ ] Toast service (snackbar and loading screen)
 - [ ] Modal service (support custom modals)
@@ -35,15 +35,15 @@ You can also contribute to an existing starter kit by creating a pull request on
 - [ ] A `README.md` file with a description of the project and how to run it
 - [ ] Scalable folder structure
 - [ ] Linter and prettier
-- [ ] Authentication with JWT.
+- [ ] Authentification with JWT.
 - [ ] Auth guard for routes
 - [ ] Database setup (any)
 - [ ] Swagger documentation available at `/api`
 - [ ] docker compose file for development & production
 
-### Authentication
+### Authentification
 
-Authentication should have at least 3 endpoints:
+Authentification should have at least 3 endpoints:
 
 #### `POST /auth/login`
 
