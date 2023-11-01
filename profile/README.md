@@ -28,8 +28,8 @@ You can also contribute to an existing starter kit by creating a pull request on
 - [ ] A `README.md` file with a description of the project and how to run it
 - [ ] Scalable folder structure
 - [ ] Linter and prettier
-- [ ] Routing and lazy loading
-- [ ] Authentification service, compatible with LINK
+- [ ] Routing
+- [ ] Authentification service with JWT
 - [ ] Light design system and layout utilities see [files](https://github.com/starter-kits-usmb/.github/tree/main/minimal-design-system)
 - [ ] Toast service (snackbar and loading screen)
 - [ ] Modal service (support custom modals)
