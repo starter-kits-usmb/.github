@@ -4,16 +4,17 @@ This organization is a collection of starter kits made by USMB students.
 
 ## 📚 Starter kits ready
 
-coming soon
+| State | Name            | Description                        | Link                                                       |
+| ----- | --------------- | ---------------------------------- | ---------------------------------------------------------- |
+| ALPHA | `front-angular` | A starter kit for angular projects | [repo](https://github.com/starter-kits-usmb/front-angular) |
+| ALPHA | `back-nestjs`   | A starter kit for netjs projects   | [repo](https://github.com/starter-kits-usmb/back-nestjs)   |
 
 ## 📝 Starter kits in progress
 
-| State | Name                    | Description                                      | Link                                                       |
-| ----- | ----------------------- | ------------------------------------------------ | ---------------------------------------------------------- |
-| WIP   | `front-angular`         | A starter kit for angular projects               | [repo](https://github.com/starter-kits-usmb/front-angular) |
-| WIP   | `back-nestjs`           | A starter kit for netjs projects                 | [repo](https://github.com/starter-kits-usmb/back-nestjs)   |
-| TODO  | `back-java-spring-boot` | A starter kit for java projects with spring boot |                                                            |
-| WIP   | `front-vue3`            | A starter kit for vue3 projects                  | [repo](https://github.com/starter-kits-usmb/front-vue3)    |
+| State | Name                    | Description                                      | Link                                                    |
+| ----- | ----------------------- | ------------------------------------------------ | ------------------------------------------------------- |
+| TODO  | `back-java-spring-boot` | A starter kit for java projects with spring boot |                                                         |
+| WIP   | `front-vue3`            | A starter kit for vue3 projects                  | [repo](https://github.com/starter-kits-usmb/front-vue3) |
 
 ## 🤝 Contributing
 
@@ -33,7 +34,7 @@ You can also contribute to an existing starter kit by creating a pull request on
 - [ ] Light design system and layout utilities see [files](https://github.com/starter-kits-usmb/.github/tree/main/minimal-design-system)
 - [ ] Toast service (snackbar and loading screen)
 - [ ] Modal service (support custom modals)
-- [ ] Test setup (jest)
+- [ ] Test setup
 - [ ] docker compose file for development & production
 
 ### Backend
@@ -45,6 +46,7 @@ You can also contribute to an existing starter kit by creating a pull request on
 - [ ] Auth guard for routes
 - [ ] Database setup (any)
 - [ ] Swagger documentation available at `/api`
+- [ ] Test setup
 - [ ] docker compose file for development & production
 
 ### Authentification
