@@ -2,12 +2,18 @@
 
 This organization is a collection of starter kits made by USMB students.
 
-## 📚 Starter kits
+## 📚 Starter kits ready
 
-| Name            | Description                        | Link                                                       |
-| --------------- | ---------------------------------- | ---------------------------------------------------------- |
-| `front-angular` | A starter kit for angular projects | [repo](https://github.com/starter-kits-usmb/front-angular) |
-| `back-nestjs`   | A starter kit for netjs projects   | [repo](https://github.com/starter-kits-usmb/back-nestjs)   |
+coming soon
+
+## 📝 Starter kits in progress
+
+| State | Name                    | Description                                      | Link                                                       |
+| ----- | ----------------------- | ------------------------------------------------ | ---------------------------------------------------------- |
+| WIP   | `front-angular`         | A starter kit for angular projects               | [repo](https://github.com/starter-kits-usmb/front-angular) |
+| WIP   | `back-nestjs`           | A starter kit for netjs projects                 | [repo](https://github.com/starter-kits-usmb/back-nestjs)   |
+| TODO  | `back-java-spring-boot` | A starter kit for java projects with spring boot |                                                            |
+| TODO  | `front-vue3`            | A starter kit for vue3 projects                  |                                                            |
 
 ## 🤝 Contributing
 
