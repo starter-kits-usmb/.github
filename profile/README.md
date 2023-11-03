@@ -4,17 +4,19 @@ This organization is a collection of starter kits made by USMB students.
 
 ## 📚 Starter kits ready
 
-| State | Name            | Description                        | Link                                                       |
-| ----- | --------------- | ---------------------------------- | ---------------------------------------------------------- |
-| ALPHA | `front-angular` | A starter kit for angular projects | [repo](https://github.com/starter-kits-usmb/front-angular) |
-| ALPHA | `back-nestjs`   | A starter kit for netjs projects   | [repo](https://github.com/starter-kits-usmb/back-nestjs)   |
+A starter kit is ready when it has a all the requirements listed [here](#minimal-requirements-for-a-starter-kit). All starter can be used with any other starter kit of this organization. (e.g one `front-xxx` with one `back-xxx`)
+
+| Name                                                                | Description                        |
+| ------------------------------------------------------------------- | ---------------------------------- |
+| [front-angular](https://github.com/starter-kits-usmb/front-angular) | A starter kit for angular projects |
+| [back-nestjs](https://github.com/starter-kits-usmb/back-nestjs)     | A starter kit for nest js projects |
 
 ## 📝 Starter kits in progress
 
-| State | Name                    | Description                                      | Link                                                    |
-| ----- | ----------------------- | ------------------------------------------------ | ------------------------------------------------------- |
-| TODO  | `back-java-spring-boot` | A starter kit for java projects with spring boot |                                                         |
-| WIP   | `front-vue3`            | A starter kit for vue3 projects                  | [repo](https://github.com/starter-kits-usmb/front-vue3) |
+| State | Name                                                                                | Description                                      |
+| ----- | ----------------------------------------------------------------------------------- | ------------------------------------------------ |
+| WIP   | [back-java-spring-boot](https://github.com/starter-kits-usmb/back-java-spring-boot) | A starter kit for java projects with spring boot |
+| WIP   | [front-vue3](https://github.com/starter-kits-usmb/front-vue3)                       | A starter kit for vue3 projects                  |
 
 ## 🤝 Contributing
 
@@ -43,7 +45,7 @@ You can also contribute to an existing starter kit by creating a pull request on
 - [ ] Scalable folder structure
 - [ ] Linter and prettier
 - [ ] Authentification with JWT.
-- [ ] Auth guard for routes
+- [ ] Auth guard for routes (protected routes)
 - [ ] Database setup (any)
 - [ ] Swagger documentation available at `/api`
 - [ ] Test setup
