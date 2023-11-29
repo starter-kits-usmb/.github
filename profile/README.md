@@ -10,13 +10,13 @@ A starter kit is ready when it has a all the requirements listed [here](#minimal
 | ------------------------------------------------------------------- | ---------------------------------- |
 | [front-angular](https://github.com/starter-kits-usmb/front-angular) | A starter kit for angular projects |
 | [back-nestjs](https://github.com/starter-kits-usmb/back-nestjs)     | A starter kit for nest js projects |
+| [front-vue3](https://github.com/starter-kits-usmb/front-vue3)       | A starter kit for vue3 projects    |
 
 ## 📝 Starter kits in progress
 
 | State | Name                                                                                | Description                                      |
 | ----- | ----------------------------------------------------------------------------------- | ------------------------------------------------ |
 | WIP   | [back-java-spring-boot](https://github.com/starter-kits-usmb/back-java-spring-boot) | A starter kit for java projects with spring boot |
-| WIP   | [front-vue3](https://github.com/starter-kits-usmb/front-vue3)                       | A starter kit for vue3 projects                  |
 
 ## 🤝 Contributing
 
